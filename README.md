@@ -1,2 +1,0 @@
-# Hallfasthet-Tentor
-Hello!
